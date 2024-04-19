@@ -1,5 +1,6 @@
 /**
  * Tests of InsertionSort.
+ * @author Samuel A. Rebelskys
  */
 public class InsertionSortTester extends SortTester {
 

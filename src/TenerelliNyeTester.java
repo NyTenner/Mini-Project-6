@@ -1,5 +1,6 @@
 /**
  * Tests of MergeSort.
+ * @author Nye Tenerelli
  */
 public class TenerelliNyeTester extends SortTester {
 
